@@ -1,0 +1,29 @@
+_repo: The-Christian-LifeIts-Course-Its-Hindrances-And-Its-Helps_13151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnold, Thomas
+    birthdate: 1795
+    deathdate: 1842
+    gutenberg_agent_id: '4867'
+    url: http://www.gutenberg.org/2009/agents/4867
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Arnold
+description: v. 1. The Christian life; its course, its hindrances, and its helps.--v.
+  2. The Christian life; its hopes, its fears, and its close.
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcc 'BX'
+- !lcsh 'Sermons, English'
+title: 'The Christian Life: Its Course, Its Hindrances, and Its Helps'
+url: http://www.gutenberg.org/ebooks/13151
