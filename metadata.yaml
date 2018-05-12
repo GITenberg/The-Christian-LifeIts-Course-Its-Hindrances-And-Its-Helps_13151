@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Arnold
 description: v. 1. The Christian life; its course, its hindrances, and its helps.--v.
   2. The Christian life; its hopes, its fears, and its close.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13151#The-Christian-LifeIts-Course-Its-Hindrances-And-Its-Helps
 gutenberg_issued: '2004-08-10'
 gutenberg_type: Text
 identifiers:
